@@ -4,8 +4,13 @@ loginnote
 A simple offline notes app with pin protection for mobiles with low space issues and older android versions.
 
 ##SCREENSHOTS:
+
 ![alt text](https://user-images.githubusercontent.com/40829097/56265323-d9021080-6106-11e9-819a-f3ef23503126.jpg)
+
+
 ![alt text](https://user-images.githubusercontent.com/40829097/56265324-d99aa700-6106-11e9-9e95-52af474a6fa0.jpg)
+
+
 ![alt text](https://user-images.githubusercontent.com/40829097/56265325-d99aa700-6106-11e9-9b3c-1c0e7e1a92f5.jpg)
 
 
@@ -38,6 +43,8 @@ Designing:
 </resources>
 
 2.Dimens.xml
+
+
 
 <resources>
     <dimen name="fab_margin">35dp</dimen>
