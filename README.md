@@ -997,7 +997,7 @@ public class SplashActivity extends AppCompatActivity implements View.OnKeyListe
                 ("com.mkv.pin", Context.MODE_PRIVATE);
 
         create_edit=(TextView) findViewById(R.id.no_textview_1);
-        if(example() == null) {
+        if(example().isEmpty()) {
             create_edit.setText("Create Pin");
         }else{create_edit.setText("Enter Pin");}
 
